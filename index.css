@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+#a{
+background-color:#000000;
+height:55px;
+}
+#b{
+	background-color:#000;
+	height:500px;
+}
+#c{
+	background-color:#888;
+	height:280px;
+}
+#d{
+	background-color:#444;
+	height:280px;
+}
+#e{
+	background-color:#666;
+	height:230px;
+}
+#c{
+	float:left;
+	width:150px;
+}
+h1{
+	float:left;
+	margin-right:60px;
+	height:30px;
+}
+img{
+	margin-right:10px;
+}
+.list{
+	float:left;
+	margin-right:50px;
+}
